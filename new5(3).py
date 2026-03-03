@@ -27,3 +27,13 @@ for p in range(3,10) : # 3 is staring value and 10 is stoping value, it will sto
 for a in range(3,10,2) : # 3 is staring value, 10 is stoping value, 2 is step size means it will increase by 2
     print(a) # 3 5 7 9
  
+
+
+
+#Pass statement in Python 
+#pass is a null statement that does nothing. It is used as a placeholder for further code.
+
+for y in range(5) :
+    pass #If we don't use the pass the it will give us an error because we have to do something in loop. But pass statement will pass that and it will not give an error and next code will work without any error
+
+print("pass statement pass the loop")
