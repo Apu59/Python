@@ -1,2 +1,3 @@
-Hello! I am Apu Sarker 
-I am learning python 
+Hello , this is Apu Sarker 
+ and i am learning JavaScript.
+ and then i will learn ReactJS.
